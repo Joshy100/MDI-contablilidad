@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8BE5709-C275-4494-877B-693BD3BDE7EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>enlaces</RootNamespace>
+    <AssemblyName>enlaces</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="capaDatos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\poliza5 (3)\poliza5\capaDatos\obj\Debug\capaDatos.dll</HintPath>
+    </Reference>
+    <Reference Include="capaLogica, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\poliza5 (3)\poliza5\capaLogica\obj\Debug\capaLogica.dll</HintPath>
+    </Reference>
+    <Reference Include="capaPresentacion, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Downloads\poliza5 (3)\poliza5\capaPresentacion\obj\Debug\capaPresentacion.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="busqueda.Designer.cs">
+      <DependentUpon>busqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapaDatos.cs" />
+    <Compile Include="CapaLogica.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="modificaBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificaBatch.Designer.cs">
+      <DependentUpon>modificaBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opPoliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="opPoliza.Designer.cs">
+      <DependentUpon>opPoliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="poliza_batch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="poliza_batch.Designer.cs">
+      <DependentUpon>poliza_batch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="busqueda.resx">
+      <DependentUpon>busqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificaBatch.resx">
+      <DependentUpon>modificaBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opPoliza.resx">
+      <DependentUpon>opPoliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="poliza_batch.resx">
+      <DependentUpon>poliza_batch.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

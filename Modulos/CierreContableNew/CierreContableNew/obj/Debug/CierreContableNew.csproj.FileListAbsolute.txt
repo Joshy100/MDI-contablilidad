@@ -1,0 +1,21 @@
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.CapaPresentacion.resources
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.csproj.GenerateResource.Cache
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\CierreContableNew.dll
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\CierreContableNew.pdb
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.dll
+c:\users\josue\documents\visual studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.pdb
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\Navegador.dll
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\MySql.Data.dll
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\Navegador.pdb
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\bin\Debug\MySql.Data.xml
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\Navegador.Navegador.resources
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.csprojResolveAssemblyReference.cache
+C:\Users\JOSUE\Documents\Visual Studio 2015\Projects\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.CapaPresetacionConsulta.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.CapaPresentacion.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.CapaPresetacionConsulta.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\CierreContableNew\CierreContableNew\obj\Debug\CierreContableNew.pdb

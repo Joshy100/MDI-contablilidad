@@ -1,0 +1,20 @@
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\poliza5\poliza5\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\braul\Desktop\poliza5\poliza5\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\braul\Desktop\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.pdb
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaDatos\bin\Debug\capaDatos.dll
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaDatos\bin\Debug\capaDatos.pdb
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.dll
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaDatos\obj\Debug\capaDatos.pdb

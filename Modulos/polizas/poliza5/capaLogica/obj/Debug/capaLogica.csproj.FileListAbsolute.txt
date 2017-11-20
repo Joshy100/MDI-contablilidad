@@ -1,0 +1,28 @@
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\fernando\Documents\8vo semestre\ASIS II\poliza5\capaLogica\obj\Debug\capaLogica.pdb
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\braul\Desktop\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.pdb
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\bin\Debug\capaLogica.dll
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\bin\Debug\capaLogica.pdb
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\bin\Debug\capaDatos.dll
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\bin\Debug\capaDatos.pdb
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.dll
+D:\Modulos\Proyecto\Proyecto\poliza5\poliza5\capaLogica\obj\Debug\capaLogica.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\polizas\poliza5\capaLogica\obj\Debug\capaLogica.pdb

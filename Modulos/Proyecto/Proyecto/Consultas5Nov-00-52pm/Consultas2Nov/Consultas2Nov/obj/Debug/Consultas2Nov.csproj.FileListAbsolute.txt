@@ -1,0 +1,15 @@
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\bin\Debug\Consultas2Nov.dll
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\bin\Debug\Consultas2Nov.pdb
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.csprojResolveAssemblyReference.cache
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.CapaPresentacion.resources
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.csproj.GenerateResource.Cache
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.dll
+c:\users\josue\documents\visual studio 2015\Projects\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.pdb
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\bin\Debug\Consultas2Nov.dll
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\bin\Debug\Consultas2Nov.pdb
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.dll
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.pdb
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.Properties.Resources.resources
+C:\Users\braul\Desktop\Consultas5Nov-00-52pm\Consultas2Nov\Consultas2Nov\obj\Debug\Consultas2Nov.CapaPresentacion.resources

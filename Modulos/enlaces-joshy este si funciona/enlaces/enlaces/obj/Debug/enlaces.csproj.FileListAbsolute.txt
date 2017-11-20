@@ -1,0 +1,16 @@
+c:\users\joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.modificaBatch.resources
+c:\users\joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.opPoliza.resources
+c:\users\joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.poliza_batch.resources
+c:\users\joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.csproj.GenerateResource.Cache
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\enlaces.dll
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\enlaces.pdb
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaDatos.dll
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaLogica.dll
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaPresentacion.dll
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaDatos.pdb
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaLogica.pdb
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\bin\Debug\capaPresentacion.pdb
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.dll
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.pdb
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.busqueda.resources
+C:\Users\Joshy\documents\visual studio 2015\Projects\enlaces\enlaces\obj\Debug\enlaces.csprojResolveAssemblyReference.cache

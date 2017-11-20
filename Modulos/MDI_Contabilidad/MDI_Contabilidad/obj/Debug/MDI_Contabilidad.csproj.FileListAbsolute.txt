@@ -1,0 +1,59 @@
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.Contabilidad.resources
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\capaPresentacion.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\capaPresentacion.pdb
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.dll
+C:\Users\braul\Desktop\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.Contabilidad.resources
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csproj.GenerateResource.Cache
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.pdb
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\polizasLocales.dll
+C:\Users\braul\Desktop\Modulos_enviados 15-11\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.pdb
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\MDI_Contabilidad.pdb
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\polizasLocales.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\FlashControlV71.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\stdole.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CapaPresentación.pdb
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\CierreContableNew.pdb
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\bin\Debug\enlaces.pdb
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csprojResolveAssemblyReference.cache
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.Contabilidad.resources
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.csproj.GenerateResource.Cache
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.dll
+C:\Users\Joshy\Desktop\modulos definitivo\Modulos\MDI_Contabilidad\MDI_Contabilidad\obj\Debug\MDI_Contabilidad.pdb
